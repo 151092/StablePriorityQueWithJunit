@@ -25,5 +25,3 @@ In junitTesting all test are being passed.
 
 
 
-VAIBHAVIBAHEN PATEL-14063841
-CS576-PROJECT ASSIGNMENT
